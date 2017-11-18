@@ -1,0 +1,17 @@
+{
+  "name": "estates",
+  "description": "Estates is a library for first-class state and observable properties",
+  "main": "dist/estates.js",
+  "license": "MIT",
+  "keywords": [
+    "state",
+    "lenses",
+    "properties",
+    "observables"
+  ],
+  "homepage": "https://github.com/calmm-js/estates",
+  "dependencies": {
+    "infestines": "^0.4.5"
+  },
+  "ignore": ["*", "!*.md", "!dist/*"]
+}
